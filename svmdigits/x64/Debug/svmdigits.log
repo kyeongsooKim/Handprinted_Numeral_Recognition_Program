@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\kkyeo\desktop\projects\handprinted_numeral_recognition\svmdigits\main.cpp(56): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  svmdigits.vcxproj -> C:\Users\kkyeo\Desktop\Projects\handprinted_numeral_recognition\svmdigits\x64\Debug\svmdigits.exe
