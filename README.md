@@ -6,7 +6,6 @@ Kyeongsoo Kim, March 2017 ~ June 2017
 It's an academic project for getting familar With OpenCV library, and the concept of supervised machine learning (SVM, KNN), normalization, Histogram of Oriented Gradients (HOG).
 
 
-
 ## USAGE
 > OpenCV must be installed to run the program.
 
